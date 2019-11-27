@@ -1,0 +1,2 @@
+# CH_Cirta_ParticleClassification
+Zindi Particle Classification challenge
